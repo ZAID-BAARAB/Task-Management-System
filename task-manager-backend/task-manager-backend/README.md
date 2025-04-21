@@ -3,15 +3,16 @@
 
 ## 📁 `backend/README.md`
 
-```md
+
 # 🛠️ Backend – Personal Task Management App
 
 This is the backend of the Personal Task Management App, built using **Node.js**, **Express**, and **Supabase**. It exposes RESTful APIs to manage users, tasks, and categories.
 
 ---
+
 ## 🎥 Demo
 
-[![Watch the video](https://youtu.be/c0BxU14wBQ8)
+[![Watch the video](./demo-thumbnail.png)](https://youtu.be/c0BxU14wBQ8)
 ## 🔧 Setup Instructions
 
 ## 🚀 Tech Stack
