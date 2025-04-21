@@ -12,7 +12,8 @@ This is the backend of the Personal Task Management App, built using **Node.js**
 
 ## 🎥 Demo
 
-[![Watch the video](./demo-thumbnail.png)](https://youtu.be/c0BxU14wBQ8)
+[![Watch the Demo video on Youtube](./demo-thumbnail.png)](https://youtu.be/c0BxU14wBQ8)
+
 ## 🔧 Setup Instructions
 
 ## 🚀 Tech Stack
