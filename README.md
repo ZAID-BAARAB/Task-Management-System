@@ -22,7 +22,9 @@ A simplified personal task management application built to demonstrate core fron
 This application enables users to manage their personal tasks with features like task creation, categorization, drag-and-drop prioritization, and filtering. The project aims to demonstrate skills in building full-stack applications using React, TypeScript, Express, and Supabase.
 
 ---
+## 🎥 Demo
 
+[![Watch the video](./demo-thumbnail.png)](https://youtu.be/c0BxU14wBQ8)
 ## 🚀 Tech Stack
 
 ### Frontend
@@ -52,9 +54,7 @@ This application enables users to manage their personal tasks with features like
 - 📱 Responsive UI for mobile and desktop
 
 ---
-## 🎥 Demo
 
-[![Watch the video](./demo-thumbnail.png)](https://www.youtube.com/watch?v=PX1ToOxt9nY&ab_channel=WardaProd)
 
 ## 🛠 Setup Instructions
 
