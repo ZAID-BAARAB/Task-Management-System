@@ -25,6 +25,7 @@ This application enables users to manage their personal tasks with features like
 ## 🎥 Demo
 
 [![Watch the Demo video on Youtube](./demo-thumbnail.png)](https://youtu.be/c0BxU14wBQ8)
+
 ## 🚀 Tech Stack
 
 ### Frontend
