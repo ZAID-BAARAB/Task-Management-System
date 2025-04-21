@@ -9,6 +9,10 @@
 This is the backend of the Personal Task Management App, built using **Node.js**, **Express**, and **Supabase**. It exposes RESTful APIs to manage users, tasks, and categories.
 
 ---
+## 🎥 Demo
+
+[![Watch the video](https://youtu.be/c0BxU14wBQ8)
+## 🔧 Setup Instructions
 
 ## 🚀 Tech Stack
 
@@ -31,10 +35,7 @@ This is the backend of the Personal Task Management App, built using **Node.js**
 - Middleware-based validation and error handling
 
 ---
-## 🎥 Demo
 
-[![Watch the video](./demo-thumbnail.png)](https://www.youtube.com/watch?v=PX1ToOxt9nY&ab_channel=WardaProd)
-## 🔧 Setup Instructions
 
 ### 1. Clone the repository and navigate to backend
 
